@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "id": "1142700563070024411",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
